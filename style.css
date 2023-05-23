@@ -1,0 +1,539 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display:ital,wght@1,500&display=swap');
+
+/********************Media Queries*******************/
+
+
+@media screen and (max-width: 3680px)
+{
+#nomDesCreateurs
+{
+               font-size: 5em;
+               
+}
+
+p
+{
+               font-size: 3.5em;
+}
+
+footer 
+{
+  font-size: 1.15em;
+}
+
+img
+{
+width: 2.5%;
+}
+}
+
+
+@media screen and (max-width: 2920px)
+{
+#nomDesCreateurs
+{
+               font-size: 4.75em;
+               
+}
+
+p
+{
+               font-size: 3.3em;
+}
+
+footer 
+{
+  font-size: 1.1em;
+}
+
+img
+{
+width: 2.25%;
+}
+}
+
+
+@media screen and (max-width: 2560px)
+{
+#nomDesCreateurs, li 
+{
+               font-size: 3.5em;
+}
+
+footer 
+{
+                font-size: 1.05em;
+}
+
+p
+{
+               font-size: 3.1em;
+}
+
+footer 
+{
+              font-size: 1em;
+}
+  
+img
+{
+width: 2.25%;
+}
+}
+
+
+@media screen and (max-width: 2400px)
+{
+#nomDesCreateurs
+{
+               font-size: 3.25em;
+}
+
+p
+{
+               font-size: 3.1em;
+}
+
+footer 
+{
+  font-size: 0.95em;
+}
+
+img
+{
+width: 2.75%;
+}
+}
+
+
+@media screen and (max-width: 2240px)
+{
+#nomDesCreateurs
+{
+               font-size: 3em;
+}
+
+p
+{
+               font-size: 3em;
+}
+
+footer 
+{
+  font-size: 0.90em;
+}
+
+img
+{
+width: 3%;
+}
+}
+
+
+@media screen and (max-width: 1920px)
+{
+#nomDesCreateurs
+{
+               font-size: 3em; 
+}
+
+p
+{
+               font-size: 2.7em;
+}
+
+footer 
+{
+  font-size: 0.85em;
+}
+
+img
+{
+width: 3.5%;
+}
+}
+
+
+@media screen and (max-width: 1600px)
+{
+#nomDesCreateurs
+{
+               font-size: 2.5em;
+}
+
+p
+{
+               font-size: 2.7em;
+}
+
+footer 
+{
+  font-size: 0.80em;
+}
+
+img
+{
+width: 4%;
+}
+}
+
+
+@media screen and (max-width: 1280px)
+{
+#nomDesCreateurs
+{
+               font-size: 2.35em;
+               
+}
+
+p
+{
+               font-size: 2.5em;
+}
+
+footer 
+{
+  font-size: 0.85em;
+}
+
+img
+{
+width: 4.5%;
+}
+}
+
+
+@media screen and (max-width: 1120px)
+{
+#nomDesCreateurs
+{
+               font-size: 2.1em;
+}
+
+p
+{
+               font-size: 2em;
+}
+
+footer 
+{
+  font-size: 0.80em;
+}
+
+img
+{
+width: 5%;
+}
+}
+
+
+@media screen and (max-width: 960px)
+{
+#nomDesCreateurs
+{
+               font-size: 1.85em;
+               
+}
+
+p
+{
+               font-size: 1.9em;
+}
+
+footer 
+{
+  font-size: 0.75em;
+}
+
+img
+{
+width: 5.25%;
+}
+}
+
+
+@media screen and (max-width: 800px)
+{
+#nomDesCreateurs
+{
+               font-size: 1.6em;
+}
+
+p
+{
+               font-size: 1.7em;
+}
+
+footer 
+{
+  font-size: 0.70em;
+}
+
+img
+{
+width: 5.5%;
+}
+}
+
+
+@media screen and (max-width: 640px)
+{
+#nomDesCreateurs
+{
+               font-size: 1.35em;
+}
+
+p
+{
+               font-size: 1.7em;
+}
+
+footer 
+{
+  font-size: 0.65em;
+}
+
+img
+{
+width: 5.75%;
+}
+}
+
+
+@media screen and (max-width: 560px)
+{
+#nomDesCreateurs
+{
+               font-size: 1.05em;
+}
+
+p
+{
+               font-size: 1.6em;
+}
+
+footer 
+{
+  font-size: 0.60em;
+}
+
+img
+{
+width: 5.75%;
+}
+}
+
+
+@media screen and (max-width: 480px)
+{
+#nomDesCreateurs
+{
+               font-size: 1em;
+}
+
+p
+{
+               font-size: 1.5em;
+}
+
+footer 
+{
+  font-size: 0.55em;
+}
+
+img
+{
+width: 6%;
+}
+}
+
+
+@media screen and (max-width: 400px)
+{
+#nomDesCreateurs
+{
+               font-size: 1.1em;
+               
+}
+
+p
+{
+               font-size: 1.2em;
+}
+
+footer 
+{
+  font-size: 0.50em;
+}
+
+img
+{
+width: 6%;
+}
+}
+
+
+@media screen and (max-width: 360px)
+{
+#nomDesCreateurs
+{
+               font-size: 0.90em;
+               
+}
+
+p
+{
+               font-size: 1em;
+}
+
+footer 
+{
+  font-size: 0.45em;
+}
+
+img
+{
+width: 6%;
+}
+}
+
+
+@media screen and (max-width: 320px) and (min-width: 0px)
+{
+#nomDesCreateurs
+{
+               font-size: 0.85em;
+}
+
+p
+{
+               font-size: 1em;
+}
+
+footer 
+{
+  font-size: 0.40em;
+}
+
+img
+{
+width: 6%;
+}
+}
+
+
+
+
+/********************Barre Fixe*******************/
+
+
+
+#barreFixe
+{
+               color:  bisque;
+               background-color :#000000;
+               border-top: #ffffff 2px solid;
+               border-bottom: #ffffff 2px solid;
+               position : fixed;
+               opacity: 90%;
+               width: 101%;
+               margin-left: -1%;
+               padding-top: 1%;
+               padding-bottom: 1%;
+               text-align: center;
+               font-family: Playfair Display ,'Courier New', Courier, monospace;
+}
+
+/********************Aspect visuel du fond******/
+
+body
+{
+              background-color: #4d6cb1;
+               width: 100%;
+}
+
+/********************Texte*******************/
+
+a 
+{
+               color: #ffffff;
+               text-decoration: none;
+}
+
+p
+{
+               width: 80%;
+               margin-left: 5%;
+               margin-top: 10%;
+               text-align: center;
+               font-family: Bebas Neue 'Courier New', Courier, monospace;
+               border-radius: 8px;
+               padding-left: 5%;
+               padding-right: 5%;
+               padding-top: 1.5%;
+               padding-bottom: 1.5%;
+               border: #000000 solid 3px;
+}
+
+#texte1
+{
+  background-color: rgba(0, 85, 164, 0.822);
+}
+
+#texte2
+{
+  background-color: rgba(255, 255, 255, 0.829);
+}
+
+#texte3
+{
+  background-color: rgba(239, 65, 53, 0.829);
+}
+
+#texte4
+{
+  background-color: rgba(0, 85, 164, 0.829);
+}
+
+#texte5
+{
+  background-color: rgba(255, 255, 255, 0.76);
+}
+
+#texte6
+{
+  background-color: rgba(239, 65, 53, 0.822);
+}
+
+#texte7
+{
+  background-color: #e5ff002c;
+}
+
+/****************footer********************/
+
+#piedDePage
+{
+               text-align: center;
+}
+
+footer {
+               
+               border-top: gray 1px solid;
+               border-bottom: gray 1px solid;
+               padding-left: 2%;
+               padding-bottom: 2%;
+               padding-top: 4%;
+               color: white;
+               width: 90%;
+               margin-left: 3.5%;
+               margin-bottom: 1%;
+               height: 70px;
+             }
+
+             img
+             {
+              float: left;
+              padding-left: 3%;
+              max-width: 3.5%;
+             }
